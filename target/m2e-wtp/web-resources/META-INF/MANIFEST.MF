@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: halado_java_beadando
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: benjamin
+Implementation-Vendor-Id: com.beadando
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/halado_java_
+ beadando/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
