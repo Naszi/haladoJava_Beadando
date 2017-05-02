@@ -13,6 +13,7 @@ import com.beadando.entities.QuestionEntity;
 import com.beadando.model.Question;
 import com.beadando.services.AppService;
 
+//Minta
 
 @RestController
 public class StudentController {
