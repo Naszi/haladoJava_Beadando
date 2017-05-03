@@ -1,2 +1,2 @@
-# haladoJava_Beadando
+# Halado Java Beadando fealadat
 Learning project.
