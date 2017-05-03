@@ -1,2 +1,2 @@
-# Halado Java Beadando fealadat
+# Halado Java Beadando feladat
 Learning project.
